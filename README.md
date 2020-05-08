@@ -1,3 +1,5 @@
 # MuP Design Project - Automatic Washing Machine
 
-8255 Base Address - 00h
+Design Project as a part of Microprocessors and Interfacing Course
+
+All other Details enclosed
